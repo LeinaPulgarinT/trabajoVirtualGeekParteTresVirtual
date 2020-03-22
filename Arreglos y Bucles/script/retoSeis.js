@@ -15,3 +15,4 @@ button.addEventListener("click", () => {
     console.log("Estas precionando el boton enviar");
     // console.log(capturado);
 });
+// continuar

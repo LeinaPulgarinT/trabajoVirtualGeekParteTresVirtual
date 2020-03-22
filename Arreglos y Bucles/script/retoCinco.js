@@ -1,3 +1,4 @@
+//Declaro variables
 const numbers = [5, 6, 2, 1, 7];
 let acumulador = 0;
 let promedio;
